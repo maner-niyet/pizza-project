@@ -4,3 +4,6 @@ Ingredients:
 - dough
 - 
 - flour
+- cheese
+- apple
+- water
