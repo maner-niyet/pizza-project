@@ -2,5 +2,8 @@
 this project is about pizza. this pizza is delicious.
 Ingredients:
 - dough
-- 
--basil 
+- Tomato
+- tomato sauce
+- cheese
+- mushrooms
+-basil
