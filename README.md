@@ -7,5 +7,7 @@ Ingredients:
 - tomato sauce
 - cheese
 - mushrooms
+-basil
+-mozzarella cheese
 - olive
 -basil
