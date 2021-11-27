@@ -1,2 +1,3 @@
 # pizza-project
-this project is about pizza 
+this project is about pizza. this pizza is delicious 
+
