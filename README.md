@@ -6,4 +6,5 @@ Ingredients:
 - tomato sauce
 - cheese
 - mushrooms
+- olive
 -basil
