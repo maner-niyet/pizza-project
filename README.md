@@ -1,3 +1,3 @@
 # pizza-project
-this project is about pizza. this pizza is delicious 
+this project is about pizza. this pizza is delicious and nice
 
