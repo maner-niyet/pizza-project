@@ -7,4 +7,4 @@ Ingredients:
 - cheese
 - mushrooms
 -basil
-olives
+-mozzarella cheese
